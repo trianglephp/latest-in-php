@@ -154,6 +154,15 @@ Atlantic BT
 
 https://www.meetup.com/trianglephp/events/MEETING_ID/
 
+---
+
+# Have a Job/Need a Job
+
+**Who's hiring?**
+**Who's looking?**
+**What are you looking for?**
+
+
 <!--
 
 # PHP Resources
