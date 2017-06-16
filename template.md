@@ -52,7 +52,7 @@ Links:
 
 ---
 
-# Laravel
+# Framework: Laravel
 
 * DETAILS
 
@@ -63,7 +63,7 @@ Links:
 
 ---
 
-# Symfony
+# Framework: Symfony
 
 VERSIONS
 
@@ -75,7 +75,7 @@ Links:
 
 ---
 
-# Drupal
+# CMS: Drupal
 
 VERSIONS
 
@@ -87,7 +87,7 @@ Links:
 
 ---
 
-# Wordpress
+# CMS: Wordpress
 
 VERSIONS
 
@@ -99,11 +99,29 @@ Links:
 
 ---
 
-# PHPStorm
+# IDE: PHPStorm
 
 NEWS_AND_CHANGES
 
 * DETAILS
+
+Links:
+
+* https://blog.jetbrains.com/phpstorm/
+
+---
+
+# IDE: VSCode
+
+VERSION
+
+* DETAILS
+
+Links:
+
+* https://code.visualstudio.com/updates
+
+
 
 ---
 
@@ -137,6 +155,14 @@ https://nomadphp.com/
 
 ---
 
+# Upcoming regional events
+
+Oct 7-8 - NCDevCon - http://ncdevcon.com
+
+Oct 23-24 - All Things Open - http://allthingsopen.org
+
+---
+
 # Notable News & Articles
 
 * LINKS
@@ -162,6 +188,15 @@ https://www.meetup.com/trianglephp/events/MEETING_ID/
 **Who's looking?**
 **What are you looking for?**
 
+---
+
+# Tonight @ TrianglePHP
+
+## TITLE
+## Presented By - NAME
+
+## Thank you to Atlantic BT for hosting and refreshments!
+
 
 <!--
 
@@ -169,7 +204,6 @@ https://www.meetup.com/trianglephp/events/MEETING_ID/
 
 * http://www.phpdeveloper.org/
 * https://www.phparch.com/news/
-* https://blog.jetbrains.com/phpstorm/
 * https://www.phptoday.org/
 * http://www.planet-php.net/
 
