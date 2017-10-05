@@ -160,6 +160,7 @@ https://nomadphp.com/
 Oct 7-8 - NCDevCon - http://ncdevcon.com
 
 Oct 23-24 - All Things Open - http://allthingsopen.org
+Enter code TriPHP20 when register, cost will be reduced by 20%
 
 ---
 
