@@ -8,3 +8,4 @@
   * July: [raw](2017/07.md) | [slides](http://trianglephp.com/presentations/?x=2017/07#1)
   * August: [raw](2017/08.md) | [slides](https://speakerdeck.com/cmgmyr/the-latest-in-php-august-2017-edition)
   * September: [raw](2017/09.md) | [slides](https://speakerdeck.com/flashadvocate/latest-in-php-september-2017-edition)
+  * October: [raw](2017/10.md) | [slides](https://speakerdeck.com/flashadvocate/latest-in-php-october-2017-edition)
