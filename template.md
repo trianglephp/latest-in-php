@@ -155,12 +155,20 @@ https://nomadphp.com/
 
 ---
 
+# Open Call for Papers
+
+**CONF**
+CONF_DATE, CONF_LOCATION
+CFP Ends: CFP_ENDS
+LINK
+
+---
+
 # Upcoming regional events
 
 Oct 7-8 - NCDevCon - http://ncdevcon.com
 
 Oct 23-24 - All Things Open - http://allthingsopen.org
-Enter code TriPHP20 when register, cost will be reduced by 20%
 
 ---
 
@@ -180,6 +188,9 @@ Thursday, **DATE**
 Atlantic BT
 
 https://www.meetup.com/trianglephp/events/MEETING_ID/
+
+Consider "Chipping In"
+[https://secure.meetup.com/trianglephp/contribute/](https://secure.meetup.com/trianglephp/contribute/)
 
 ---
 
