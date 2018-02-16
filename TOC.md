@@ -10,3 +10,8 @@
   * September: [raw](2017/09.md) | [slides](https://speakerdeck.com/flashadvocate/latest-in-php-september-2017-edition)
   * October: [raw](2017/10.md) | [slides](https://speakerdeck.com/flashadvocate/latest-in-php-october-2017-edition)
   * November: [raw](2017/11.md) | [slides](https://speakerdeck.com/cmgmyr/the-latest-in-php-november-2017-edition)
+  * December: Holiday Outing, No Pres
+
+* 2018
+  * January: Postponed due to weather
+  * February: [raw](2018/02.md) | [slides](https://speakerdeck.com/flashadvocate/latest-in-php-february-2018-edition)
