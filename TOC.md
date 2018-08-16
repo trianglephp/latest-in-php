@@ -5,6 +5,10 @@
   * February: [raw](2018/02.md) | [slides](https://speakerdeck.com/flashadvocate/latest-in-php-february-2018-edition)
   * March: [raw](2018/03.md) | [slides](https://speakerdeck.com/flashadvocate/latest-in-php-march-2018-edition)
   * April: [raw](2018/04.md) | [slides](https://speakerdeck.com/cmgmyr/the-latest-in-php-april-2018-edition)
+  * May: MIA!
+  * June: MIA!
+  * July: MIA!
+  * August: [raw](2018/03.md) | [slides](https://speakerdeck.com/flashadvocate/latest-in-php-august-edition)
 
 * 2017
   * March: [raw](2017/03.md) | [slides](https://speakerdeck.com/cmgmyr/the-latest-in-php-march-2017-edition)
