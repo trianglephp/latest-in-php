@@ -8,7 +8,7 @@
   * May: MIA!
   * June: MIA!
   * July: MIA!
-  * August: [raw](2018/03.md) | [slides](https://speakerdeck.com/flashadvocate/latest-in-php-august-edition)
+  * August: [raw](2018/08.md) | [slides](https://speakerdeck.com/flashadvocate/latest-in-php-august-edition)
 
 * 2017
   * March: [raw](2017/03.md) | [slides](https://speakerdeck.com/cmgmyr/the-latest-in-php-march-2017-edition)
