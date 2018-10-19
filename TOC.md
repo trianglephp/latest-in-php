@@ -10,6 +10,7 @@
   * July: MIA!
   * August: [raw](2018/08.md) | [slides](https://speakerdeck.com/flashadvocate/latest-in-php-august-edition)
   * September: [raw](2018/09.md) | [slides](https://speakerdeck.com/cmgmyr/the-latest-in-php-september-2018-edition)
+  * September: [raw](2018/10.md) | [slides](https://speakerdeck.com/flashadvocate/latest-in-php-october-2018-edition)
 
 * 2017
   * March: [raw](2017/03.md) | [slides](https://speakerdeck.com/cmgmyr/the-latest-in-php-march-2017-edition)
