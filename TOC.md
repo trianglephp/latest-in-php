@@ -1,6 +1,9 @@
 # Table of Contents
 
 * 2018
+  * January: [raw](2019/01.md) | [slides](https://speakerdeck.com/cmgmyr/the-latest-in-php-january-2019-edition)
+
+* 2018
   * January: Postponed due to weather
   * February: [raw](2018/02.md) | [slides](https://speakerdeck.com/flashadvocate/latest-in-php-february-2018-edition)
   * March: [raw](2018/03.md) | [slides](https://speakerdeck.com/flashadvocate/latest-in-php-march-2018-edition)
