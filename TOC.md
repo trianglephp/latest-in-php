@@ -2,6 +2,7 @@
 
 * 2018
   * January: [raw](2019/01.md) | [slides](https://speakerdeck.com/cmgmyr/the-latest-in-php-january-2019-edition)
+  * April: [raw](2019/04.md) | [slides](https://speakerdeck.com/cmgmyr/the-latest-in-php-april-2019-edition)
 
 * 2018
   * January: Postponed due to weather
